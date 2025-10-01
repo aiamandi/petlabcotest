@@ -15,13 +15,17 @@ proponents of planning and then execute, so please fill out the SOLUTION.md.
 2. Read these instructions carefully first before continuing with the practical test
 3. Read the Requirements / Story Definition and Conditions of Acceptance
 4. Identify and write at least 3 test cases (no code necessary; Gherkin or a written list will suffice)
-   - Demonstrate your understanding of the Conditions of Acceptance
-   - Identify any appropriate edge cases
+
+- Demonstrate your understanding of the Conditions of Acceptance
+- Identify any appropriate edge cases
+
 5. Implement the Story's functionality using the files in 'src' directory
-   - Develop a solution which demonstrates your skills and strengths
-   - You may add/change/modify any files in the project
-   - You may use Google or any other references for react/tailwind syntax
-   - Your solution, or/and parts of it, should NOT be AI generated
+
+- Develop a solution which demonstrates your skills and strengths
+- You may add/change/modify any files in the project
+- You may use Google or any other references for react/tailwind syntax
+- Your solution, or/and parts of it, `should NOT be AI generated`
+
 6. Describe how you can build a better "Product" for this coding task in SOLUTION.md and include your estimates
 7. When you are satisfied with your solution please submit a link to your own forked repo.
 
