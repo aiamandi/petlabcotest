@@ -100,7 +100,7 @@ export const ProductDashboard = () => {
 
   return (
     <div className="min-h-screen bg-gray-50 w-full">
-      <div className="flex flex-row max-w-7xl mx-auto p-6 space-y-6 w-full">
+      <div className="flex  flex-col md:flex-row max-w-7xl mx-auto p-6 space-y-6 w-full">
         <ProductFilters
           onFiltersChange={handleFiltersChange}
           totalResults={filteredProducts.length}
